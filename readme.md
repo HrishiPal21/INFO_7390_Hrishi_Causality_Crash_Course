@@ -61,6 +61,9 @@ Note: Both datasets load directly from URLs. Saved copies are included in the da
 - **UCI Adult Census Dataset:** Becker, B. & Kohavi, R. (1996). UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/2/adult. Licensed under CC BY 4.0.
 - **LaLonde Dataset:** Dehejia, R. & Wahba, S. (1999). NBER Data Archive. https://users.nber.org/~rdehejia/nswdata2.html
 
+## AI Usage Disclosure
+AI tools (Claude by Anthropic) were used in a supporting capacity during this project. Specifically, AI assistance was used for researching dataset options, debugging code errors (such as package version conflicts)
+
 ## Video Presentation
 
 A 3-5 minute video walkthrough of the notebook is available at the link provided in `Video_Link.txt`.
